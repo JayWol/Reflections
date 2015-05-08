@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+An empety repository is created where
+you can begin to track files. You need to do it 
+so that you can track commits for files in a 
+project
